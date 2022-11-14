@@ -1,6 +1,6 @@
 {
-  "name": "react-jqui",
-  "version": "1.0.7",
+  "name": "unnecessary-ui",
+  "version": "1.0.21",
   "description": "A React component library",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
